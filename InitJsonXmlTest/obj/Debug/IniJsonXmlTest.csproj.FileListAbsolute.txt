@@ -1,0 +1,9 @@
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\bin\Debug\InitJsonXmlTest.exe.config
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\bin\Debug\InitJsonXmlTest.exe
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\bin\Debug\InitJsonXmlTest.pdb
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\IniJsonXmlTest.csprojResolveAssemblyReference.cache
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\InitJsonXmlTest.Properties.Resources.resources
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\IniJsonXmlTest.csproj.GenerateResource.Cache
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\IniJsonXmlTest.csproj.CoreCompileInputs.cache
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\InitJsonXmlTest.exe
+C:\Code_C#Test\InitJsonXmlTest\InitJsonXmlTest\obj\Debug\InitJsonXmlTest.pdb
